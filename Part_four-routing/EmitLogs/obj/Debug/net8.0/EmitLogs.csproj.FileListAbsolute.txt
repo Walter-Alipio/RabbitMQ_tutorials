@@ -1,0 +1,17 @@
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\bin\Debug\net8.0\EmitLogs.exe
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\bin\Debug\net8.0\EmitLogs.deps.json
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\bin\Debug\net8.0\EmitLogs.runtimeconfig.json
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\bin\Debug\net8.0\EmitLogs.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\bin\Debug\net8.0\EmitLogs.pdb
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\EmitLogs.csproj.AssemblyReference.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\EmitLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\EmitLogs.AssemblyInfoInputs.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\EmitLogs.AssemblyInfo.cs
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\EmitLogs.csproj.CoreCompileInputs.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\EmitLogs.csproj.Up2Date
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\EmitLogs.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\refint\EmitLogs.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\EmitLogs.pdb
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\EmitLogs.genruntimeconfig.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_four\EmitLogs\obj\Debug\net8.0\ref\EmitLogs.dll

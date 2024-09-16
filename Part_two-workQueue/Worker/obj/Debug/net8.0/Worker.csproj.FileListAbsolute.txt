@@ -1,0 +1,17 @@
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\bin\Debug\net8.0\Worker.exe
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\bin\Debug\net8.0\Worker.deps.json
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\bin\Debug\net8.0\Worker.runtimeconfig.json
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\bin\Debug\net8.0\Worker.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\bin\Debug\net8.0\Worker.pdb
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\Worker.csproj.AssemblyReference.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\Worker.AssemblyInfoInputs.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\Worker.AssemblyInfo.cs
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\Worker.csproj.Up2Date
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\Worker.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\refint\Worker.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\Worker.pdb
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\Worker.genruntimeconfig.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Worker\obj\Debug\net8.0\ref\Worker.dll

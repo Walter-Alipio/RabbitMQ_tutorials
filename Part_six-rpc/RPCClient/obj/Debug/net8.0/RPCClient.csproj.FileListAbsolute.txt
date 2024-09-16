@@ -1,0 +1,17 @@
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\RPCClient.csproj.AssemblyReference.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\RPCClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\RPCClient.AssemblyInfoInputs.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\RPCClient.AssemblyInfo.cs
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\RPCClient.csproj.CoreCompileInputs.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\bin\Debug\net8.0\RPCClient.exe
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\bin\Debug\net8.0\RPCClient.deps.json
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\bin\Debug\net8.0\RPCClient.runtimeconfig.json
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\bin\Debug\net8.0\RPCClient.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\bin\Debug\net8.0\RPCClient.pdb
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\RPCClient.csproj.Up2Date
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\RPCClient.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\refint\RPCClient.dll
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\RPCClient.pdb
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\RPCClient.genruntimeconfig.cache
+C:\Users\walter.silva\Desktop\Teste\RabbitMQ_tutorials\Part_six\RPCClient\obj\Debug\net8.0\ref\RPCClient.dll
